@@ -1,0 +1,3 @@
+git init--> repository
+git status--> to check status of file
+git log--> to see the commit changes
