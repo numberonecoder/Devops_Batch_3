@@ -4,4 +4,8 @@ hello new developer has made the changes
  
 
 main github wala bunda hu new code dalunga
+<<<<<<< HEAD
 added a new feature in  local git
+=======
+added new f4 feature in remote git
+>>>>>>> 49e3b469ea46aacc6b6cf63548a809387c6eaa55
